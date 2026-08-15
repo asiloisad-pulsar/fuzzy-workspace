@@ -12,7 +12,7 @@ Quickly find and focus any open item across the workspace.
 
 ## Installation
 
-To install `fuzzy-workspace` search for [fuzzy-workspace](https://web.pulsar-edit.dev/packages/fuzzy-workspace) in the Install pane of the Pulsar settings or run `ppm install fuzzy-workspace`. Alternatively, you can run `ppm install asiloisad/pulsar-fuzzy-workspace` to install a package directly from the GitHub repository.
+To install `fuzzy-workspace` search for [fuzzy-workspace](https://web.pulsar-edit.dev/packages/fuzzy-workspace) in the Install pane of the Pulsar settings or run `ppm install fuzzy-workspace`. Alternatively, you can run `ppm install asiloisad-pulsar/fuzzy-workspace` to install a package directly from the GitHub repository.
 
 ## Commands
 
