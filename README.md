@@ -2,6 +2,9 @@
 
 Quickly find and focus any open item across the workspace.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [fuzzy-workspace](https://github.com/lumine-code/fuzzy-workspace).
+
 ## Features
 
 - **Fast fuzzy search**: Uses a smart scoring algorithm to rank open items by match quality.
